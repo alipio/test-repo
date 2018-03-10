@@ -1,4 +1,4 @@
-# Test RepoXYZ
+# Test RepoXPTO
 
 test-repo0
 
@@ -11,5 +11,3 @@ test-repo6
 test-repo7
 
 test-repo8
-
-coño
