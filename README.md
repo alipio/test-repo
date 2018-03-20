@@ -6,7 +6,7 @@ test-repo2
 
 test-repo3
 
-test-repoXXX
+test-repo+++++
 
 test-repo5
 
