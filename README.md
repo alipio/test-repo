@@ -15,3 +15,4 @@ test-repo6
 test-bare
 
 more-tests
+bla bla bla
