@@ -12,4 +12,6 @@ test-repo5
 
 test-repo6
 
+test-foo
+
 feat/xpto
