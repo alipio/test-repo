@@ -16,4 +16,6 @@ test-repo7
 
 test-repo8
 
+test-merged
+
 test-squashed
