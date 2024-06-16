@@ -18,4 +18,4 @@ test-repo8
 
 test-merged
 
-test-squashed
+test-squash
