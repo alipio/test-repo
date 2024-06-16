@@ -15,3 +15,5 @@ test-repo6
 test-repo7
 
 test-repo8
+
+test-merged
